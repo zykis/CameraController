@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MediaPreviewViewController.viewDidAppear(_:):MediaPreviewViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MediaPreviewViewController.viewDidLayoutSubviews():MediaPreviewViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CaptureButton.animateStartCapture():CaptureButton.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "layer.sublayers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaPreviewViewController.viewWillAppear(_:):MediaPreviewViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CameraController.configureCaptureDevices():CameraController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
